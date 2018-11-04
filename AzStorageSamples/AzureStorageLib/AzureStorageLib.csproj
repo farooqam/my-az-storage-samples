@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>My.AzureStorage.Samples.Lib</AssemblyName>
+    <RootNamespace>My.AzureStorage.Samples.Lib</RootNamespace>
+  </PropertyGroup>
+
+</Project>
