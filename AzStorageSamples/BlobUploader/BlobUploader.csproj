@@ -16,4 +16,8 @@
     <PackageReference Include="WindowsAzure.Storage" Version="9.3.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AzureStorageLib\AzureStorageLib.csproj" />
+  </ItemGroup>
+
 </Project>
